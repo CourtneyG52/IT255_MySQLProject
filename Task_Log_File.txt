@@ -1,0 +1,31 @@
+    1  gcc
+    2  java
+    3  sudo apt update && sudo apt upgrade -y
+    4  sudo apt update -y && sudo apt upgrade -y
+    5  sudo apt update && sudo apt upgrade -y
+    6  sudo apt install man
+    7  man ls
+    8  pwd
+    9  whoami
+   10  ls -l
+   11  ls -a
+   12  ls -al
+   13  grep -r "lastbackup"
+   14  find . -name whoownsme.txt -ls
+   15  top -n 1
+   16  history > Bearings_Log_File.txt
+   17  mkdir NEW BACKUP OLD
+   18  cd NEW
+   19  echo -e "This\nis\nmy\nFinal\nProject" >> Personal_Content.txt
+   20  df > Free_Space_Content.txt
+   21  ls -l > Directory_Content.txt
+   22  cp Directory_Content.txt Copied_Content.txt
+   23  date > Time_File.txt
+   24  cp NEW/Personal_Content.txt OLD/Personal_Content_OLD.txt
+   25  cp ~/workspace/NEW/Personal_Content.txt ~/workspace/OLD/Personal_Content_OLD.txt
+   26  cp ~/workspace/NEW/Free_Space_Content.txt ~/workspace/OLD/Free_Space_Content_OLD.txt
+   27  cp ~/workspace/NEW/Directory_Content.txt ~/workspace/OLD/Directory_Content_OLD.txt
+   28  cp ~/workspace/NEW/Copied_Content.txt ~/workspace/OLD/Copied_Content_OLD.txt
+   29  cp ~/workspace/NEW/Time_File.txt ~/workspace/OLD/Time_File_OLD.txt
+   30  cd ..
+   31  history > Task_Log_File.txt

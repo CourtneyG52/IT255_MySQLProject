@@ -1,0 +1,6 @@
+First, I used the 'cd' command to go into the NEW directory.  I then  used the df command in order to list the quantity of OS free space, 
+and I used the '>' to create a file. For the next file I needed to create, I used the ls command to list the contents of the OLD directory 
+folder. As for the last file, I simply used the 'date' command and used the '>' to direct it to create the file. The next command I used was 
+the 'cp' command. I copied the files in the OLD directory and put them in the BACKUP directory, and renamed the files from '*_OLD.txt' to 
+'*_BACKUP.txt'. I did this with all three files, using the files names when I used the command. Next, I used 'cp' to copy all text files from 
+the NEW directory to the BACKUP directory. I then used the 'rm' command to remove all files in the NEW directory.
